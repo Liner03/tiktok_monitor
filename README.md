@@ -3,7 +3,7 @@
 
 1.安装python3最新版  
 
-2.修改dog_love.py程序里的部分信息为自己的！ 
+2.修改dog_monitor.py程序里的部分信息为自己的！ 
 
 3.如果程序报错，请安装dog_love.py里面所用到的库。  
 
