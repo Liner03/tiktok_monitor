@@ -120,7 +120,7 @@ else:
     if mail_msg == "无变动":
         pass
     else:
-        push = push.WXPusher(usr='FanLinQi', msg=mail_msg)       # usr参数为推送用户名，msg为消息文本  usr为@all时是推送全体成员
+        push = push.WXPusher(usr='User', msg=mail_msg)       # usr参数为推送用户名，msg为消息文本  usr为@all时是推送全体成员
         push.send_message()
         # 发信
     json_info = json2
